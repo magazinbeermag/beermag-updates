@@ -1,6 +1,6 @@
 {
- "version": "0.5.6",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.6-update.zip",
- "sha256": "4e44ca377ee6b0a499626fe3a5fa17ed7295369e232e2d45310d1d74c43206b6",
- "notes": "Автообновление включено: адрес GitHub и ключ владельца встроены в кассу."
+ "version": "0.5.7",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.7-update.zip",
+ "sha256": "6950dfae30b67758ab0499365121f6daf22a767d80d038110cbdb372a1fcdbd4",
+ "notes": "Пересчёт: килограммы у весового товара набираются как есть (3,65), Enter берёт подсвеченный товар, скан не дописывается к слову поиска и не принимается за количество. Папка резервных копий больше не засоряется служебными файлами. Добавлена ПОЛНАЯ_ПРОВЕРКА.bat — проверка кассы на настоящем МоемСкладе."
 }
