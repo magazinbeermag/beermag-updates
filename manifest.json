@@ -1,0 +1,6 @@
+{
+ "version": "0.5.6",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.6-update.zip",
+ "sha256": "4e44ca377ee6b0a499626fe3a5fa17ed7295369e232e2d45310d1d74c43206b6",
+ "notes": "Автообновление включено: адрес GitHub и ключ владельца встроены в кассу."
+}
