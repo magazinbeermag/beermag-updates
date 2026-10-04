@@ -1,0 +1,6 @@
+{
+ "version": "0.5.9",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.9-update.zip",
+ "sha256": "5ee69e109d92f14e8fb7a8e85633e5b9de43d5ab92986956050748c26e3126d9",
+ "notes": "0.5.9: неудачное обновление отменяется само (автооткат), ОТКАТИТЬ_ОБНОВЛЕНИЕ.bat, пробная касса"
+}
