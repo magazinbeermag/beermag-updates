@@ -1,6 +1,6 @@
 {
- "version": "0.5.8",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.8-update.zip",
- "sha256": "4ea3232d0645351c6bf63a51826983a148144062ef2b72137adc9918f23f5c8d",
- "notes": "Касса сама переживает секундный сбой МоегоСклада: повторяет запрос, перечитывает каталог через 2 минуты и пишет понятное сообщение вместо «HTTP 503». Вход сотрудника работает и тогда, когда МойСклад временно не отвечает."
+ "version": "0.5.9",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.9-update.zip",
+ "sha256": "5ee69e109d92f14e8fb7a8e85633e5b9de43d5ab92986956050748c26e3126d9",
+ "notes": "0.5.9: неудачное обновление отменяется само (автооткат), ОТКАТИТЬ_ОБНОВЛЕНИЕ.bat, пробная касса"
 }
