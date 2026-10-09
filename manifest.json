@@ -1,6 +1,6 @@
 {
- "version": "0.5.10",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.10-update.zip",
- "sha256": "cd90542c15ff7aeae4e4f1aa0e1116e17236d79220d83e24c16d1eec766ea78a",
- "notes": "0.5.10: вопросы задаёт окно кассы — без «Сообщение с 127.0.0.1:8765»"
+ "version": "0.5.11",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.11-update.zip",
+ "sha256": "897e6eebca0942c9f6eca4d257b72ca00d8b0821e6af0656e189e8d13cdf6a42",
+ "notes": "0.5.11: пересчёт ждёт связи, продажи не останавливаются; новые товары в пересчёте; пропуск застрявшей операции; Enter открывает смену"
 }
