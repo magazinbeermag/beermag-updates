@@ -1,6 +1,6 @@
 {
- "version": "0.5.11",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.11-update.zip",
- "sha256": "897e6eebca0942c9f6eca4d257b72ca00d8b0821e6af0656e189e8d13cdf6a42",
- "notes": "0.5.11: пересчёт ждёт связи, продажи не останавливаются; новые товары в пересчёте; пропуск застрявшей операции; Enter открывает смену"
+ "version": "0.5.12",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.12-update.zip",
+ "sha256": "157539d3e6e5f1dab3e5997c1aadcf19b43feb10ac86e35ae65033a212b17e93",
+ "notes": "0.5.12: синхронизация больше не выкидывает владельца и администратора на экран входа"
 }
