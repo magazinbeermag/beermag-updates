@@ -1,6 +1,6 @@
 {
- "version": "0.5.13",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.13-update.zip",
- "sha256": "46002927b3db1b1a38d69009be5cb98c635e18fe13fde18b9b39114e8f77c92a",
- "notes": "0.5.13: ошибки в окнах на красной плашке, подтверждение закрытия смены с недостачей или излишком, понятная подпись в окне закрытия смены"
+ "version": "0.5.14",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.14-update.zip",
+ "sha256": "c88a63a765775f057251df7fc92628d2bcbd9f05f5fdbf6aca4b9fcb01642f2f",
+ "notes": "0.5.14: исправления по полной проверке перед запуском: сканер в любом месте экрана, защита оплаты от лишнего Enter и скана, окно веса, пересчёт виден на кассе, очередь не встаёт после «Пропустить», надёжные обновление и откат"
 }
