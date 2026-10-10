@@ -1,6 +1,6 @@
 {
- "version": "0.5.12",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.12-update.zip",
- "sha256": "157539d3e6e5f1dab3e5997c1aadcf19b43feb10ac86e35ae65033a212b17e93",
- "notes": "0.5.12: синхронизация больше не выкидывает владельца и администратора на экран входа"
+ "version": "0.5.13",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.13-update.zip",
+ "sha256": "46002927b3db1b1a38d69009be5cb98c635e18fe13fde18b9b39114e8f77c92a",
+ "notes": "0.5.13: ошибки в окнах на красной плашке, подтверждение закрытия смены с недостачей или излишком, понятная подпись в окне закрытия смены"
 }
