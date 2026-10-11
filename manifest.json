@@ -1,6 +1,6 @@
 {
- "version": "0.5.18",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.18-update.zip",
- "sha256": "8d9ba03c82f9f1efac0d8ac066e7275b94ff95394f678d9075fde4d553dbd5ce",
- "notes": "0.5.18: поиск продажи для возврата во всей истории магазина (номер, дата, сумма, товар), а не только в последних 300"
+ "version": "0.5.22",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.22-update.zip",
+ "sha256": "c71d5d7670480f9780e0fe2a18dcf446421aa0974bc308541ec4d71d05d4306a",
+ "notes": "0.5.22: без тары — только для 0,5 л; плюс всё из 0.5.19–0.5.21 (сканер во всех окнах, Enter в оплате картой)"
 }
