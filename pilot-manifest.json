@@ -1,6 +1,6 @@
 {
- "version": "0.5.19",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.19-update.zip",
- "sha256": "0c4b54fa6e86bc64a15fe363a2c022e6d244463e281f8b4df8dcf431cd8a606f",
- "notes": "0.5.19: сканер сразу после оплаты (окно покупки закрывается первым знаком), оплата картой и сложная — подтверждение клавишей Enter"
+ "version": "0.5.20",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.20-update.zip",
+ "sha256": "087a662f0b1f73d6352cb855f1ee3fb1b48d6035fcbc5c22a47a3f5aaf95dcfe",
+ "notes": "0.5.20: сканер распознаётся в любом окне кассы и при любой скорости (8+ цифр и Enter): после оплаты, после разливного и т.д.; скан в окне разливного добавляет выбранное пиво и пробивает товар; оплата картой — Enter"
 }
