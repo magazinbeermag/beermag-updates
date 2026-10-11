@@ -1,6 +1,6 @@
 {
- "version": "0.5.22",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.22-update.zip",
- "sha256": "c71d5d7670480f9780e0fe2a18dcf446421aa0974bc308541ec4d71d05d4306a",
- "notes": "0.5.22: без тары — только для 0,5 л; плюс всё из 0.5.19–0.5.21 (сканер во всех окнах, Enter в оплате картой)"
+ "version": "0.5.23",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.23-update.zip",
+ "sha256": "7e16f38bbbc2e26190db1693e0329e9651da64dc04b380a68bcc63ede8a68860",
+ "notes": "0.5.23: скан в окне разливного сохраняет порции, скан в полях окон отклоняется, скан на итоге пересчёта не теряется, Enter закрывает смену, поиск продаж по местной дате"
 }
