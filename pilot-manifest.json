@@ -1,6 +1,6 @@
 {
- "version": "0.5.20",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.20-update.zip",
- "sha256": "087a662f0b1f73d6352cb855f1ee3fb1b48d6035fcbc5c22a47a3f5aaf95dcfe",
- "notes": "0.5.20: сканер распознаётся в любом окне кассы и при любой скорости (8+ цифр и Enter): после оплаты, после разливного и т.д.; скан в окне разливного добавляет выбранное пиво и пробивает товар; оплата картой — Enter"
+ "version": "0.5.21",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.21-update.zip",
+ "sha256": "7fa2af3255cbd51371f93cfd1414d6d3a1ae9881c764db18090b2b50f2efdd28",
+ "notes": "0.5.21: разливное без тары — своя посуда покупателя; плюс всё из 0.5.19–0.5.20 (сканер во всех окнах, Enter в оплате картой)"
 }
