@@ -1,6 +1,6 @@
 {
- "version": "0.5.17",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.17-update.zip",
- "sha256": "cd3cda17e8c9f5ca018c19a18ab3d2018224ad0f7ef94b87ae8563fae7b27563",
- "notes": "0.5.17: в окне веса снова «0,» (граммы), сканер срабатывает без курсора в поиске (касса, пересчёт, другие страницы), товары обновляются при открытии смены и кнопкой, без автообновления каждые 30 минут"
+ "version": "0.5.18",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.18-update.zip",
+ "sha256": "8d9ba03c82f9f1efac0d8ac066e7275b94ff95394f678d9075fde4d553dbd5ce",
+ "notes": "0.5.18: поиск продажи для возврата во всей истории магазина (номер, дата, сумма, товар), а не только в последних 300"
 }
