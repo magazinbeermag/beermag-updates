@@ -1,6 +1,6 @@
 {
- "version": "0.5.18",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.18-update.zip",
- "sha256": "8d9ba03c82f9f1efac0d8ac066e7275b94ff95394f678d9075fde4d553dbd5ce",
- "notes": "0.5.18: поиск продажи для возврата во всей истории магазина (номер, дата, сумма, товар), а не только в последних 300"
+ "version": "0.5.19",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.19-update.zip",
+ "sha256": "0c4b54fa6e86bc64a15fe363a2c022e6d244463e281f8b4df8dcf431cd8a606f",
+ "notes": "0.5.19: сканер сразу после оплаты (окно покупки закрывается первым знаком), оплата картой и сложная — подтверждение клавишей Enter"
 }
