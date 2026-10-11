@@ -1,6 +1,6 @@
 {
- "version": "0.5.21",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.21-update.zip",
- "sha256": "7fa2af3255cbd51371f93cfd1414d6d3a1ae9881c764db18090b2b50f2efdd28",
- "notes": "0.5.21: разливное без тары — своя посуда покупателя; плюс всё из 0.5.19–0.5.20 (сканер во всех окнах, Enter в оплате картой)"
+ "version": "0.5.22",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.22-update.zip",
+ "sha256": "c71d5d7670480f9780e0fe2a18dcf446421aa0974bc308541ec4d71d05d4306a",
+ "notes": "0.5.22: без тары — только для 0,5 л; плюс всё из 0.5.19–0.5.21 (сканер во всех окнах, Enter в оплате картой)"
 }
