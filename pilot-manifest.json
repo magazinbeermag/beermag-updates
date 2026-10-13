@@ -1,6 +1,6 @@
 {
- "version": "0.5.24",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.24-update.zip",
- "sha256": "fcc98624952e0f4ca8e410d7b4e1b42aad88627d37efa4ca0ade37ea41ee230a",
- "notes": "0.5.24: первая настройка — после токена касса сама загружает точки, товары и сотрудников; продавец входит сразу, владелец МоегоСклада становится управляющим при входе"
+ "version": "0.5.25",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.25-update.zip",
+ "sha256": "8edbc80bb1934034a6753044a32a44db36488ad484b56a0654ade249399df8aa",
+ "notes": "0.5.25: выбор товара стрелками в поиске; сканер снова работает после закрытия окна разливного кнопкой; понятное сообщение, если смену удалили в МоемСкладе"
 }
