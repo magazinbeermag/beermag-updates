@@ -1,6 +1,6 @@
 {
- "version": "0.5.25",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.25-update.zip",
- "sha256": "8edbc80bb1934034a6753044a32a44db36488ad484b56a0654ade249399df8aa",
- "notes": "0.5.25: выбор товара стрелками в поиске; сканер снова работает после закрытия окна разливного кнопкой; понятное сообщение, если смену удалили в МоемСкладе"
+ "version": "0.5.26",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.26-update.zip",
+ "sha256": "725d01be95aeb095dfc97d20be773c4c4d2fa32b9930a70c9656e35395182b6c",
+ "notes": "0.5.26: остаток в ящике переходит в новую смену и не вносится в МойСклад заново; расхождения при открытии и недостача/излишек при закрытии уходят внесением или выплатой"
 }
