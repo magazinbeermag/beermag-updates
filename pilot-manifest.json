@@ -1,6 +1,6 @@
 {
- "version": "0.5.31",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.31-update.zip",
- "sha256": "8ee6f8eec3f043cecad61dbf3b2a67a957eac7e744adc46f4213ca1b612cb5f1",
- "notes": "0.5.31: в приходе итоги «Всего по закупке · НДС · по продаже» — внизу справа"
+ "version": "0.5.32",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.32-update.zip",
+ "sha256": "8abcea6519245e393476306753f9a6af3729a61127378f9f5e1b2c27c93f7b4f",
+ "notes": "0.5.32: в приходе убрана нижняя строка «Итого» — она повторяла «Всего по закупке»"
 }
