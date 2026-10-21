@@ -1,6 +1,6 @@
 {
- "version": "0.5.28",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.28-update.zip",
- "sha256": "bc5606de716b608a227dee8254a579a15672f61637fc1b689c5e2a973b49bd64",
- "notes": "0.5.28: в приходе и списании товар выбирается стрелками (↓ ↑, Enter — добавить)"
+ "version": "0.5.29",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.29-update.zip",
+ "sha256": "3ce0f70d2b3d39d4581128532ad7f920867bd1de35b96de1d051bf1d6558e001",
+ "notes": "0.5.29: копейка в чеках как в МоемСкладе; приход с наценкой (ниже 56% — красным), суммами покупки и продажи"
 }
