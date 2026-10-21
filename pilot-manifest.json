@@ -1,6 +1,6 @@
 {
- "version": "0.5.33",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.33-update.zip",
- "sha256": "8d1f118f2d626aa45385f62b1e88f661774f10bf6889705fa600505537b13eae",
- "notes": "0.5.33: в списании и приходе поле «Причина» и поиск товара больше не слипаются"
+ "version": "0.5.34",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.34-update.zip",
+ "sha256": "033c2f75ea9a4dcaba9912bd3502d0eb28c54c00daf95ef0f760b0658d97cc07",
+ "notes": "0.5.34: касса меньше занимает места — сжатые резервные копии, без копий без изменений, окно кассы без лишних дополнений браузера"
 }
