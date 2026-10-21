@@ -1,6 +1,6 @@
 {
- "version": "0.5.27",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.27-update.zip",
- "sha256": "b794f6740f8c4468631f74fc319c2d04d9b7de59644c19ccddbfd98d1b3054b5",
- "notes": "0.5.27: приход и списание товара через кассу — поставщики, товары и цены из МоегоСклада, остатки не видны, документы уходят в МойСклад"
+ "version": "0.5.28",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.28-update.zip",
+ "sha256": "bc5606de716b608a227dee8254a579a15672f61637fc1b689c5e2a973b49bd64",
+ "notes": "0.5.28: в приходе и списании товар выбирается стрелками (↓ ↑, Enter — добавить)"
 }
