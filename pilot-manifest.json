@@ -1,6 +1,6 @@
 {
- "version": "0.5.26",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.26-update.zip",
- "sha256": "725d01be95aeb095dfc97d20be773c4c4d2fa32b9930a70c9656e35395182b6c",
- "notes": "0.5.26: остаток в ящике переходит в новую смену и не вносится в МойСклад заново; расхождения при открытии и недостача/излишек при закрытии уходят внесением или выплатой"
+ "version": "0.5.27",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.27-update.zip",
+ "sha256": "b794f6740f8c4468631f74fc319c2d04d9b7de59644c19ccddbfd98d1b3054b5",
+ "notes": "0.5.27: приход и списание товара через кассу — поставщики, товары и цены из МоегоСклада, остатки не видны, документы уходят в МойСклад"
 }
