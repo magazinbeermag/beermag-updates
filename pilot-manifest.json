@@ -1,6 +1,6 @@
 {
- "version": "0.5.30",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.30-update.zip",
- "sha256": "b56bd244a72899fe0933e1fd4c2164ba2d226e16fd339ed9288ab166f9ff45ae",
- "notes": "0.5.30: НДС в приходе (ставка в каждой строке, уходит в МойСклад); наценка ниже 56% — только подсказка"
+ "version": "0.5.31",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.31-update.zip",
+ "sha256": "8ee6f8eec3f043cecad61dbf3b2a67a957eac7e744adc46f4213ca1b612cb5f1",
+ "notes": "0.5.31: в приходе итоги «Всего по закупке · НДС · по продаже» — внизу справа"
 }
