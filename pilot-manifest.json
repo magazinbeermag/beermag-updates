@@ -1,6 +1,6 @@
 {
- "version": "0.5.32",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.32-update.zip",
- "sha256": "8abcea6519245e393476306753f9a6af3729a61127378f9f5e1b2c27c93f7b4f",
- "notes": "0.5.32: в приходе убрана нижняя строка «Итого» — она повторяла «Всего по закупке»"
+ "version": "0.5.33",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.33-update.zip",
+ "sha256": "8d1f118f2d626aa45385f62b1e88f661774f10bf6889705fa600505537b13eae",
+ "notes": "0.5.33: в списании и приходе поле «Причина» и поиск товара больше не слипаются"
 }
