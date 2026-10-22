@@ -1,6 +1,6 @@
 {
- "version": "0.5.34",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.34-update.zip",
- "sha256": "033c2f75ea9a4dcaba9912bd3502d0eb28c54c00daf95ef0f760b0658d97cc07",
- "notes": "0.5.34: касса меньше занимает места — сжатые резервные копии, без копий без изменений, окно кассы без лишних дополнений браузера"
+ "version": "0.5.36",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.36-update.zip",
+ "sha256": "e8d19bddd070b1a609e04edac4ce6b3930a7cfb8603d8474575ae37475514f66",
+ "notes": "0.5.36: касса работает и на Windows 7 (отдельные установщики Win7-x64 / Win7-x86); обновления одни для всех"
 }
