@@ -1,6 +1,6 @@
 {
- "version": "0.5.34",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.34-update.zip",
- "sha256": "033c2f75ea9a4dcaba9912bd3502d0eb28c54c00daf95ef0f760b0658d97cc07",
- "notes": "0.5.34: касса меньше занимает места — сжатые резервные копии, без копий без изменений, окно кассы без лишних дополнений браузера"
+ "version": "0.5.35",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.35-update.zip",
+ "sha256": "5d1a0b5cac286cb283593057ea3346fe008f77cfeed7d12a50a715da039f4549",
+ "notes": "0.5.35: в истории приходов — сумма по продаже; без подсказок браузера в полях кассы"
 }
