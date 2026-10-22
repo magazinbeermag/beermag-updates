@@ -1,6 +1,6 @@
 {
- "version": "0.5.35",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.35-update.zip",
- "sha256": "5d1a0b5cac286cb283593057ea3346fe008f77cfeed7d12a50a715da039f4549",
- "notes": "0.5.35: в истории приходов — сумма по продаже; без подсказок браузера в полях кассы"
+ "version": "0.5.36",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.36-update.zip",
+ "sha256": "e8d19bddd070b1a609e04edac4ce6b3930a7cfb8603d8474575ae37475514f66",
+ "notes": "0.5.36: касса работает и на Windows 7 (отдельные установщики Win7-x64 / Win7-x86); обновления одни для всех"
 }
