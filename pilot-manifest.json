@@ -1,6 +1,6 @@
 {
- "version": "0.5.40",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.40-update.zip",
- "sha256": "3b4a04f3d4693ccb6ca641cec6573bb949c94d3e0d677ad6c7965a0b9e0d417b",
- "notes": "0.5.40: исправления по проверке агентами: приход (дата, номер, повтор накладной), поле веса, сбитые часы, резервные копии, возврат старых весовых покупок в МойСклад"
+ "version": "0.5.41",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.41-update.zip",
+ "sha256": "2a9a69cceabeb9298d4b4f38c56334ada8f03747e314137473ba2404c64875d8",
+ "notes": "0.5.41: быстрее на слабых ПК — скан и поиск товара без подвисаний (вместе с 0.5.37-0.5.40)"
 }
