@@ -1,6 +1,6 @@
 {
- "version": "0.5.38",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.38-update.zip",
- "sha256": "d6646f77e447ce608e8c8892c8bbe596f796b02dece0a19d44dbfcf117977185",
- "notes": "0.5.38: чек по центру и крупнее, поиск справа; вес вручную в строке чека; касса помнит магазин управляющего"
+ "version": "0.5.39",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.39-update.zip",
+ "sha256": "0238661dae18ba9388da93bf865f1e182a74fd480dde65f6acd4e564bfac8710",
+ "notes": "0.5.39: чек по центру и крупнее, поиск справа; вес вручную в строке чека; касса помнит магазин управляющего; чек подстраивается под любой экран"
 }
