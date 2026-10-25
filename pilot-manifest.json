@@ -1,6 +1,6 @@
 {
- "version": "0.5.36",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.36-update.zip",
- "sha256": "e8d19bddd070b1a609e04edac4ce6b3930a7cfb8603d8474575ae37475514f66",
- "notes": "0.5.36: касса работает и на Windows 7 (отдельные установщики Win7-x64 / Win7-x86); обновления одни для всех"
+ "version": "0.5.37",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.37-update.zip",
+ "sha256": "099e54448ac2a281d58f00c2b4f256f55b6a194c40b6866e4e88e7ce31200c25",
+ "notes": "0.5.37: чек по центру и крупнее, поиск справа; вес весового товара вводится вручную в строке чека"
 }
