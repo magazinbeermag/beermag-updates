@@ -1,6 +1,6 @@
 {
- "version": "0.5.42",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.42-update.zip",
- "sha256": "30ff5e2d4aed640374b6fbdb4ca1fd7d201466fbb94d4c5979d123bd1cabd9f7",
- "notes": "0.5.42: пересчёт — «−»/«+» не двигают строку, значок «!» виден, окно на весь экран; новое оформление кассы"
+ "version": "0.5.43",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.43-update.zip",
+ "sha256": "d4f80ee173d219164191965ceffcdc70ea5d291a7a80c1c31295904153ed956c",
+ "notes": "0.5.43: пересчёт — без зелёной строки последнего товара, найденное по поиску мельче (вместе с 0.5.42: «−»/«+» не двигают строку, окно на весь экран, новое оформление)"
 }
