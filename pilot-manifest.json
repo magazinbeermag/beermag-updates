@@ -1,6 +1,6 @@
 {
- "version": "0.5.41",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.41-update.zip",
- "sha256": "2a9a69cceabeb9298d4b4f38c56334ada8f03747e314137473ba2404c64875d8",
- "notes": "0.5.41: быстрее на слабых ПК — скан и поиск товара без подвисаний (вместе с 0.5.37-0.5.40)"
+ "version": "0.5.42",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.42-update.zip",
+ "sha256": "30ff5e2d4aed640374b6fbdb4ca1fd7d201466fbb94d4c5979d123bd1cabd9f7",
+ "notes": "0.5.42: пересчёт — «−»/«+» не двигают строку, значок «!» виден, окно на весь экран; новое оформление кассы"
 }
