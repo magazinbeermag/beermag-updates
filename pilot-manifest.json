@@ -1,6 +1,6 @@
 {
- "version": "0.5.43",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.43-update.zip",
- "sha256": "d4f80ee173d219164191965ceffcdc70ea5d291a7a80c1c31295904153ed956c",
- "notes": "0.5.43: пересчёт — без зелёной строки последнего товара, найденное по поиску мельче (вместе с 0.5.42: «−»/«+» не двигают строку, окно на весь экран, новое оформление)"
+ "version": "0.5.44",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.44-update.zip",
+ "sha256": "7255d07c5273dee2d41c2b796445eab7ba3d9dd5393616bdb29b7425c02f7ecd",
+ "notes": "0.5.44: на экране «Смена» снова видна кнопка «Выдать деньги»; видны кнопки входа и настройки"
 }
