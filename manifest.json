@@ -1,6 +1,6 @@
 {
- "version": "0.5.44",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.44-update.zip",
- "sha256": "7255d07c5273dee2d41c2b796445eab7ba3d9dd5393616bdb29b7425c02f7ecd",
- "notes": "0.5.44: на экране «Смена» снова видна кнопка «Выдать деньги»; видны кнопки входа и настройки"
+ "version": "0.5.45",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.45-update.zip",
+ "sha256": "2d7b5c4b6c9b26ba55b79b58a130b6ba302c10c33f2b3f6c6e1f3845fa62a8a2",
+ "notes": "0.5.45: быстрее на слабых ПК и без интернета — пересчёт без подвисаний на каждом скане, быстрый отказ и пауза при отсутствии связи, лёгкая очередь передачи"
 }
