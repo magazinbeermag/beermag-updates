@@ -1,6 +1,6 @@
 {
- "version": "0.5.45",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.45-update.zip",
- "sha256": "2d7b5c4b6c9b26ba55b79b58a130b6ba302c10c33f2b3f6c6e1f3845fa62a8a2",
- "notes": "0.5.45: быстрее на слабых ПК и без интернета — пересчёт без подвисаний на каждом скане, быстрый отказ и пауза при отсутствии связи, лёгкая очередь передачи"
+ "version": "0.5.46",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.46-update.zip",
+ "sha256": "b493f2099899f6cc4e79a6ec0c3dff1c766c8cff654e48ed4a0fb29647087531",
+ "notes": "0.5.46: касса доверяет встроенному набору сертификатов HTTPS (Mozilla) вместе с сертификатами Windows — МойСклад и обновления работают и на компьютерах с устаревшими корневыми сертификатами (Windows 7)"
 }
