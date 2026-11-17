@@ -1,6 +1,6 @@
 {
- "version": "0.5.47",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.47-update.zip",
- "sha256": "ed232df9f35eb45bfa7d20af39d6acf2be30fef826989a46cef0c49a06d8d864",
- "notes": "0.5.47: каталог товаров (товары, цены, группы) обновляется только кнопкой «Синхронизировать» — при открытии смены касса больше не загружает его сама"
+ "version": "0.5.48",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.48-update.zip",
+ "sha256": "83bab68ce5cf2bd0174a6cbd18ccebe676f2290322d3c98ec13163aaa38e404d",
+ "notes": "0.5.48: пересчёт с удалённой в МоемСкладе карточкой больше не останавливает очередь магазина"
 }
