@@ -1,6 +1,6 @@
 {
- "version": "0.5.46",
- "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.46-update.zip",
- "sha256": "b493f2099899f6cc4e79a6ec0c3dff1c766c8cff654e48ed4a0fb29647087531",
- "notes": "0.5.46: касса доверяет встроенному набору сертификатов HTTPS (Mozilla) вместе с сертификатами Windows — МойСклад и обновления работают и на компьютерах с устаревшими корневыми сертификатами (Windows 7)"
+ "version": "0.5.47",
+ "url": "https://raw.githubusercontent.com/magazinbeermag/beermag-updates/main/BeerMag-0.5.47-update.zip",
+ "sha256": "ed232df9f35eb45bfa7d20af39d6acf2be30fef826989a46cef0c49a06d8d864",
+ "notes": "0.5.47: каталог товаров (товары, цены, группы) обновляется только кнопкой «Синхронизировать» — при открытии смены касса больше не загружает его сама"
 }
